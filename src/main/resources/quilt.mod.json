@@ -19,7 +19,7 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "io.github.marie_the_ruby.ExampleMod"
+			"init": "io.github.marie_the_ruby.FindMain"
 		},
 		"depends": [
 			{
