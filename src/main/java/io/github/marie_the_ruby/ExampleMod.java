@@ -1,4 +1,4 @@
-package com.example.example_mod;
+package io.github.marie_the_ruby;
 
 import org.quiltmc.loader.api.ModContainer;
 import org.quiltmc.qsl.base.api.entrypoint.ModInitializer;
